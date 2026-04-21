@@ -1,0 +1,313 @@
+week_date,block,seam,inventory_type,volume_ton,status_note
+2025-10-11,Zebra,Seam 30,Exposed,30485,Ready getting / available for coal winning
+2025-10-11,Zebra,Seam 30,Flooded,7000,Perlu dewatering dan treatment area
+2025-10-11,Zebra,Seam 30,Buried,6965,Perlu re-expose pasca hujan / material sliding
+2025-10-11,Zebra,Seam 24,Exposed,23383,Ready getting / available for coal winning
+2025-10-11,Zebra,Seam 24,Flooded,5482,Perlu dewatering dan treatment area
+2025-10-11,Zebra,Seam 24,Buried,5204,Perlu re-expose pasca hujan / material sliding
+2025-10-18,Zebra,Seam 30,Exposed,27171,Ready getting / available for coal winning
+2025-10-18,Zebra,Seam 30,Flooded,5626,Perlu dewatering dan treatment area
+2025-10-18,Zebra,Seam 30,Buried,6254,Perlu re-expose pasca hujan / material sliding
+2025-10-18,Zebra,Seam 24,Exposed,22911,Ready getting / available for coal winning
+2025-10-18,Zebra,Seam 24,Flooded,5980,Perlu dewatering dan treatment area
+2025-10-18,Zebra,Seam 24,Buried,2960,Perlu re-expose pasca hujan / material sliding
+2025-10-25,Zebra,Seam 30,Exposed,30508,Ready getting / available for coal winning
+2025-10-25,Zebra,Seam 30,Flooded,9444,Perlu dewatering dan treatment area
+2025-10-25,Zebra,Seam 30,Buried,6124,Perlu re-expose pasca hujan / material sliding
+2025-10-25,Zebra,Seam 24,Exposed,23162,Ready getting / available for coal winning
+2025-10-25,Zebra,Seam 24,Flooded,5141,Perlu dewatering dan treatment area
+2025-10-25,Zebra,Seam 24,Buried,3682,Perlu re-expose pasca hujan / material sliding
+2025-11-01,Zebra,Seam 30,Exposed,26766,Ready getting / available for coal winning
+2025-11-01,Zebra,Seam 30,Flooded,8698,Perlu dewatering dan treatment area
+2025-11-01,Zebra,Seam 30,Buried,6921,Perlu re-expose pasca hujan / material sliding
+2025-11-01,Zebra,Seam 24,Exposed,20107,Ready getting / available for coal winning
+2025-11-01,Zebra,Seam 24,Flooded,5669,Perlu dewatering dan treatment area
+2025-11-01,Zebra,Seam 24,Buried,3578,Perlu re-expose pasca hujan / material sliding
+2025-11-08,Zebra,Seam 30,Exposed,28325,Ready getting / available for coal winning
+2025-11-08,Zebra,Seam 30,Flooded,8813,Perlu dewatering dan treatment area
+2025-11-08,Zebra,Seam 30,Buried,4533,Perlu re-expose pasca hujan / material sliding
+2025-11-08,Zebra,Seam 24,Exposed,23251,Ready getting / available for coal winning
+2025-11-08,Zebra,Seam 24,Flooded,7324,Perlu dewatering dan treatment area
+2025-11-08,Zebra,Seam 24,Buried,4581,Perlu re-expose pasca hujan / material sliding
+2025-11-15,Zebra,Seam 30,Exposed,25212,Ready getting / available for coal winning
+2025-11-15,Zebra,Seam 30,Flooded,9204,Perlu dewatering dan treatment area
+2025-11-15,Zebra,Seam 30,Buried,8639,Perlu re-expose pasca hujan / material sliding
+2025-11-15,Zebra,Seam 24,Exposed,17533,Ready getting / available for coal winning
+2025-11-15,Zebra,Seam 24,Flooded,7302,Perlu dewatering dan treatment area
+2025-11-15,Zebra,Seam 24,Buried,4585,Perlu re-expose pasca hujan / material sliding
+2025-11-22,Zebra,Seam 30,Exposed,30304,Ready getting / available for coal winning
+2025-11-22,Zebra,Seam 30,Flooded,9245,Perlu dewatering dan treatment area
+2025-11-22,Zebra,Seam 30,Buried,7675,Perlu re-expose pasca hujan / material sliding
+2025-11-22,Zebra,Seam 24,Exposed,22671,Ready getting / available for coal winning
+2025-11-22,Zebra,Seam 24,Flooded,9276,Perlu dewatering dan treatment area
+2025-11-22,Zebra,Seam 24,Buried,5301,Perlu re-expose pasca hujan / material sliding
+2025-11-29,Zebra,Seam 30,Exposed,29124,Ready getting / available for coal winning
+2025-11-29,Zebra,Seam 30,Flooded,9355,Perlu dewatering dan treatment area
+2025-11-29,Zebra,Seam 30,Buried,9098,Perlu re-expose pasca hujan / material sliding
+2025-11-29,Zebra,Seam 24,Exposed,20279,Ready getting / available for coal winning
+2025-11-29,Zebra,Seam 24,Flooded,7569,Perlu dewatering dan treatment area
+2025-11-29,Zebra,Seam 24,Buried,6000,Perlu re-expose pasca hujan / material sliding
+2025-12-06,Zebra,Seam 30,Exposed,24466,Ready getting / available for coal winning
+2025-12-06,Zebra,Seam 30,Flooded,14069,Perlu dewatering dan treatment area
+2025-12-06,Zebra,Seam 30,Buried,11231,Perlu re-expose pasca hujan / material sliding
+2025-12-06,Zebra,Seam 24,Exposed,20547,Ready getting / available for coal winning
+2025-12-06,Zebra,Seam 24,Flooded,8791,Perlu dewatering dan treatment area
+2025-12-06,Zebra,Seam 24,Buried,7659,Perlu re-expose pasca hujan / material sliding
+2025-12-13,Zebra,Seam 30,Exposed,27480,Ready getting / available for coal winning
+2025-12-13,Zebra,Seam 30,Flooded,12722,Perlu dewatering dan treatment area
+2025-12-13,Zebra,Seam 30,Buried,9984,Perlu re-expose pasca hujan / material sliding
+2025-12-13,Zebra,Seam 24,Exposed,21090,Ready getting / available for coal winning
+2025-12-13,Zebra,Seam 24,Flooded,11220,Perlu dewatering dan treatment area
+2025-12-13,Zebra,Seam 24,Buried,8584,Perlu re-expose pasca hujan / material sliding
+2025-12-20,Zebra,Seam 30,Exposed,29319,Ready getting / available for coal winning
+2025-12-20,Zebra,Seam 30,Flooded,14789,Perlu dewatering dan treatment area
+2025-12-20,Zebra,Seam 30,Buried,11325,Perlu re-expose pasca hujan / material sliding
+2025-12-20,Zebra,Seam 24,Exposed,23964,Ready getting / available for coal winning
+2025-12-20,Zebra,Seam 24,Flooded,10526,Perlu dewatering dan treatment area
+2025-12-20,Zebra,Seam 24,Buried,7332,Perlu re-expose pasca hujan / material sliding
+2025-12-27,Zebra,Seam 30,Exposed,28268,Ready getting / available for coal winning
+2025-12-27,Zebra,Seam 30,Flooded,12879,Perlu dewatering dan treatment area
+2025-12-27,Zebra,Seam 30,Buried,8797,Perlu re-expose pasca hujan / material sliding
+2025-12-27,Zebra,Seam 24,Exposed,19171,Ready getting / available for coal winning
+2025-12-27,Zebra,Seam 24,Flooded,11640,Perlu dewatering dan treatment area
+2025-12-27,Zebra,Seam 24,Buried,7247,Perlu re-expose pasca hujan / material sliding
+2026-01-03,Zebra,Seam 30,Exposed,26692,Ready getting / available for coal winning
+2026-01-03,Zebra,Seam 30,Flooded,13076,Perlu dewatering dan treatment area
+2026-01-03,Zebra,Seam 30,Buried,8955,Perlu re-expose pasca hujan / material sliding
+2026-01-03,Zebra,Seam 24,Exposed,20463,Ready getting / available for coal winning
+2026-01-03,Zebra,Seam 24,Flooded,9682,Perlu dewatering dan treatment area
+2026-01-03,Zebra,Seam 24,Buried,5627,Perlu re-expose pasca hujan / material sliding
+2026-01-10,Zebra,Seam 30,Exposed,28786,Ready getting / available for coal winning
+2026-01-10,Zebra,Seam 30,Flooded,13273,Perlu dewatering dan treatment area
+2026-01-10,Zebra,Seam 30,Buried,8851,Perlu re-expose pasca hujan / material sliding
+2026-01-10,Zebra,Seam 24,Exposed,20628,Ready getting / available for coal winning
+2026-01-10,Zebra,Seam 24,Flooded,8013,Perlu dewatering dan treatment area
+2026-01-10,Zebra,Seam 24,Buried,5954,Perlu re-expose pasca hujan / material sliding
+2026-01-17,Zebra,Seam 30,Exposed,28716,Ready getting / available for coal winning
+2026-01-17,Zebra,Seam 30,Flooded,9542,Perlu dewatering dan treatment area
+2026-01-17,Zebra,Seam 30,Buried,8136,Perlu re-expose pasca hujan / material sliding
+2026-01-17,Zebra,Seam 24,Exposed,19223,Ready getting / available for coal winning
+2026-01-17,Zebra,Seam 24,Flooded,8302,Perlu dewatering dan treatment area
+2026-01-17,Zebra,Seam 24,Buried,5142,Perlu re-expose pasca hujan / material sliding
+2026-01-24,Zebra,Seam 30,Exposed,29569,Ready getting / available for coal winning
+2026-01-24,Zebra,Seam 30,Flooded,8953,Perlu dewatering dan treatment area
+2026-01-24,Zebra,Seam 30,Buried,8631,Perlu re-expose pasca hujan / material sliding
+2026-01-24,Zebra,Seam 24,Exposed,23621,Ready getting / available for coal winning
+2026-01-24,Zebra,Seam 24,Flooded,8520,Perlu dewatering dan treatment area
+2026-01-24,Zebra,Seam 24,Buried,4213,Perlu re-expose pasca hujan / material sliding
+2026-01-31,Zebra,Seam 30,Exposed,30644,Ready getting / available for coal winning
+2026-01-31,Zebra,Seam 30,Flooded,9805,Perlu dewatering dan treatment area
+2026-01-31,Zebra,Seam 30,Buried,5462,Perlu re-expose pasca hujan / material sliding
+2026-01-31,Zebra,Seam 24,Exposed,22014,Ready getting / available for coal winning
+2026-01-31,Zebra,Seam 24,Flooded,7415,Perlu dewatering dan treatment area
+2026-01-31,Zebra,Seam 24,Buried,5680,Perlu re-expose pasca hujan / material sliding
+2026-02-07,Zebra,Seam 30,Exposed,29643,Ready getting / available for coal winning
+2026-02-07,Zebra,Seam 30,Flooded,9731,Perlu dewatering dan treatment area
+2026-02-07,Zebra,Seam 30,Buried,8264,Perlu re-expose pasca hujan / material sliding
+2026-02-07,Zebra,Seam 24,Exposed,23872,Ready getting / available for coal winning
+2026-02-07,Zebra,Seam 24,Flooded,4213,Perlu dewatering dan treatment area
+2026-02-07,Zebra,Seam 24,Buried,4918,Perlu re-expose pasca hujan / material sliding
+2026-02-14,Zebra,Seam 30,Exposed,30016,Ready getting / available for coal winning
+2026-02-14,Zebra,Seam 30,Flooded,6168,Perlu dewatering dan treatment area
+2026-02-14,Zebra,Seam 30,Buried,5840,Perlu re-expose pasca hujan / material sliding
+2026-02-14,Zebra,Seam 24,Exposed,24571,Ready getting / available for coal winning
+2026-02-14,Zebra,Seam 24,Flooded,4853,Perlu dewatering dan treatment area
+2026-02-14,Zebra,Seam 24,Buried,4619,Perlu re-expose pasca hujan / material sliding
+2026-02-21,Zebra,Seam 30,Exposed,29146,Ready getting / available for coal winning
+2026-02-21,Zebra,Seam 30,Flooded,6808,Perlu dewatering dan treatment area
+2026-02-21,Zebra,Seam 30,Buried,6743,Perlu re-expose pasca hujan / material sliding
+2026-02-21,Zebra,Seam 24,Exposed,22076,Ready getting / available for coal winning
+2026-02-21,Zebra,Seam 24,Flooded,6072,Perlu dewatering dan treatment area
+2026-02-21,Zebra,Seam 24,Buried,2376,Perlu re-expose pasca hujan / material sliding
+2026-02-28,Zebra,Seam 30,Exposed,32940,Ready getting / available for coal winning
+2026-02-28,Zebra,Seam 30,Flooded,8723,Perlu dewatering dan treatment area
+2026-02-28,Zebra,Seam 30,Buried,5747,Perlu re-expose pasca hujan / material sliding
+2026-02-28,Zebra,Seam 24,Exposed,23473,Ready getting / available for coal winning
+2026-02-28,Zebra,Seam 24,Flooded,4680,Perlu dewatering dan treatment area
+2026-02-28,Zebra,Seam 24,Buried,5498,Perlu re-expose pasca hujan / material sliding
+2026-03-07,Zebra,Seam 30,Exposed,30314,Ready getting / available for coal winning
+2026-03-07,Zebra,Seam 30,Flooded,6796,Perlu dewatering dan treatment area
+2026-03-07,Zebra,Seam 30,Buried,4598,Perlu re-expose pasca hujan / material sliding
+2026-03-07,Zebra,Seam 24,Exposed,22229,Ready getting / available for coal winning
+2026-03-07,Zebra,Seam 24,Flooded,5945,Perlu dewatering dan treatment area
+2026-03-07,Zebra,Seam 24,Buried,4010,Perlu re-expose pasca hujan / material sliding
+2026-03-14,Zebra,Seam 30,Exposed,31778,Ready getting / available for coal winning
+2026-03-14,Zebra,Seam 30,Flooded,6991,Perlu dewatering dan treatment area
+2026-03-14,Zebra,Seam 30,Buried,5502,Perlu re-expose pasca hujan / material sliding
+2026-03-14,Zebra,Seam 24,Exposed,22472,Ready getting / available for coal winning
+2026-03-14,Zebra,Seam 24,Flooded,7480,Perlu dewatering dan treatment area
+2026-03-14,Zebra,Seam 24,Buried,2369,Perlu re-expose pasca hujan / material sliding
+2026-03-21,Zebra,Seam 30,Exposed,32691,Ready getting / available for coal winning
+2026-03-21,Zebra,Seam 30,Flooded,8368,Perlu dewatering dan treatment area
+2026-03-21,Zebra,Seam 30,Buried,4273,Perlu re-expose pasca hujan / material sliding
+2026-03-21,Zebra,Seam 24,Exposed,26444,Ready getting / available for coal winning
+2026-03-21,Zebra,Seam 24,Flooded,6245,Perlu dewatering dan treatment area
+2026-03-21,Zebra,Seam 24,Buried,4654,Perlu re-expose pasca hujan / material sliding
+2026-03-28,Zebra,Seam 30,Exposed,30842,Ready getting / available for coal winning
+2026-03-28,Zebra,Seam 30,Flooded,6783,Perlu dewatering dan treatment area
+2026-03-28,Zebra,Seam 30,Buried,4852,Perlu re-expose pasca hujan / material sliding
+2026-03-28,Zebra,Seam 24,Exposed,23686,Ready getting / available for coal winning
+2026-03-28,Zebra,Seam 24,Flooded,6651,Perlu dewatering dan treatment area
+2026-03-28,Zebra,Seam 24,Buried,3943,Perlu re-expose pasca hujan / material sliding
+2026-04-04,Zebra,Seam 30,Exposed,29433,Ready getting / available for coal winning
+2026-04-04,Zebra,Seam 30,Flooded,7824,Perlu dewatering dan treatment area
+2026-04-04,Zebra,Seam 30,Buried,5869,Perlu re-expose pasca hujan / material sliding
+2026-04-04,Zebra,Seam 24,Exposed,24082,Ready getting / available for coal winning
+2026-04-04,Zebra,Seam 24,Flooded,5995,Perlu dewatering dan treatment area
+2026-04-04,Zebra,Seam 24,Buried,3536,Perlu re-expose pasca hujan / material sliding
+2025-10-11,Utara,Seam 30,Exposed,29033,Ready getting / available for coal winning
+2025-10-11,Utara,Seam 30,Flooded,6772,Perlu dewatering dan treatment area
+2025-10-11,Utara,Seam 30,Buried,4066,Perlu re-expose pasca hujan / material sliding
+2025-10-11,Utara,Seam 24,Exposed,23175,Ready getting / available for coal winning
+2025-10-11,Utara,Seam 24,Flooded,5647,Perlu dewatering dan treatment area
+2025-10-11,Utara,Seam 24,Buried,3757,Perlu re-expose pasca hujan / material sliding
+2025-10-18,Utara,Seam 30,Exposed,26250,Ready getting / available for coal winning
+2025-10-18,Utara,Seam 30,Flooded,5953,Perlu dewatering dan treatment area
+2025-10-18,Utara,Seam 30,Buried,6204,Perlu re-expose pasca hujan / material sliding
+2025-10-18,Utara,Seam 24,Exposed,22016,Ready getting / available for coal winning
+2025-10-18,Utara,Seam 24,Flooded,5761,Perlu dewatering dan treatment area
+2025-10-18,Utara,Seam 24,Buried,2645,Perlu re-expose pasca hujan / material sliding
+2025-10-25,Utara,Seam 30,Exposed,31955,Ready getting / available for coal winning
+2025-10-25,Utara,Seam 30,Flooded,8576,Perlu dewatering dan treatment area
+2025-10-25,Utara,Seam 30,Buried,6639,Perlu re-expose pasca hujan / material sliding
+2025-10-25,Utara,Seam 24,Exposed,25836,Ready getting / available for coal winning
+2025-10-25,Utara,Seam 24,Flooded,8056,Perlu dewatering dan treatment area
+2025-10-25,Utara,Seam 24,Buried,4507,Perlu re-expose pasca hujan / material sliding
+2025-11-01,Utara,Seam 30,Exposed,29000,Ready getting / available for coal winning
+2025-11-01,Utara,Seam 30,Flooded,8234,Perlu dewatering dan treatment area
+2025-11-01,Utara,Seam 30,Buried,6712,Perlu re-expose pasca hujan / material sliding
+2025-11-01,Utara,Seam 24,Exposed,22260,Ready getting / available for coal winning
+2025-11-01,Utara,Seam 24,Flooded,6025,Perlu dewatering dan treatment area
+2025-11-01,Utara,Seam 24,Buried,6010,Perlu re-expose pasca hujan / material sliding
+2025-11-08,Utara,Seam 30,Exposed,29439,Ready getting / available for coal winning
+2025-11-08,Utara,Seam 30,Flooded,11340,Perlu dewatering dan treatment area
+2025-11-08,Utara,Seam 30,Buried,6708,Perlu re-expose pasca hujan / material sliding
+2025-11-08,Utara,Seam 24,Exposed,24885,Ready getting / available for coal winning
+2025-11-08,Utara,Seam 24,Flooded,7137,Perlu dewatering dan treatment area
+2025-11-08,Utara,Seam 24,Buried,5837,Perlu re-expose pasca hujan / material sliding
+2025-11-15,Utara,Seam 30,Exposed,28990,Ready getting / available for coal winning
+2025-11-15,Utara,Seam 30,Flooded,7386,Perlu dewatering dan treatment area
+2025-11-15,Utara,Seam 30,Buried,6418,Perlu re-expose pasca hujan / material sliding
+2025-11-15,Utara,Seam 24,Exposed,24040,Ready getting / available for coal winning
+2025-11-15,Utara,Seam 24,Flooded,6220,Perlu dewatering dan treatment area
+2025-11-15,Utara,Seam 24,Buried,3346,Perlu re-expose pasca hujan / material sliding
+2025-11-22,Utara,Seam 30,Exposed,28666,Ready getting / available for coal winning
+2025-11-22,Utara,Seam 30,Flooded,5733,Perlu dewatering dan treatment area
+2025-11-22,Utara,Seam 30,Buried,3574,Perlu re-expose pasca hujan / material sliding
+2025-11-22,Utara,Seam 24,Exposed,23194,Ready getting / available for coal winning
+2025-11-22,Utara,Seam 24,Flooded,6495,Perlu dewatering dan treatment area
+2025-11-22,Utara,Seam 24,Buried,3861,Perlu re-expose pasca hujan / material sliding
+2025-11-29,Utara,Seam 30,Exposed,27409,Ready getting / available for coal winning
+2025-11-29,Utara,Seam 30,Flooded,6809,Perlu dewatering dan treatment area
+2025-11-29,Utara,Seam 30,Buried,4893,Perlu re-expose pasca hujan / material sliding
+2025-11-29,Utara,Seam 24,Exposed,26244,Ready getting / available for coal winning
+2025-11-29,Utara,Seam 24,Flooded,3793,Perlu dewatering dan treatment area
+2025-11-29,Utara,Seam 24,Buried,3428,Perlu re-expose pasca hujan / material sliding
+2025-12-06,Utara,Seam 30,Exposed,30582,Ready getting / available for coal winning
+2025-12-06,Utara,Seam 30,Flooded,12210,Perlu dewatering dan treatment area
+2025-12-06,Utara,Seam 30,Buried,9249,Perlu re-expose pasca hujan / material sliding
+2025-12-06,Utara,Seam 24,Exposed,21189,Ready getting / available for coal winning
+2025-12-06,Utara,Seam 24,Flooded,9150,Perlu dewatering dan treatment area
+2025-12-06,Utara,Seam 24,Buried,7257,Perlu re-expose pasca hujan / material sliding
+2025-12-13,Utara,Seam 30,Exposed,27346,Ready getting / available for coal winning
+2025-12-13,Utara,Seam 30,Flooded,11718,Perlu dewatering dan treatment area
+2025-12-13,Utara,Seam 30,Buried,6791,Perlu re-expose pasca hujan / material sliding
+2025-12-13,Utara,Seam 24,Exposed,21913,Ready getting / available for coal winning
+2025-12-13,Utara,Seam 24,Flooded,8309,Perlu dewatering dan treatment area
+2025-12-13,Utara,Seam 24,Buried,5465,Perlu re-expose pasca hujan / material sliding
+2025-12-20,Utara,Seam 30,Exposed,28876,Ready getting / available for coal winning
+2025-12-20,Utara,Seam 30,Flooded,9617,Perlu dewatering dan treatment area
+2025-12-20,Utara,Seam 30,Buried,6595,Perlu re-expose pasca hujan / material sliding
+2025-12-20,Utara,Seam 24,Exposed,21152,Ready getting / available for coal winning
+2025-12-20,Utara,Seam 24,Flooded,6576,Perlu dewatering dan treatment area
+2025-12-20,Utara,Seam 24,Buried,5961,Perlu re-expose pasca hujan / material sliding
+2025-12-27,Utara,Seam 30,Exposed,28258,Ready getting / available for coal winning
+2025-12-27,Utara,Seam 30,Flooded,9112,Perlu dewatering dan treatment area
+2025-12-27,Utara,Seam 30,Buried,5066,Perlu re-expose pasca hujan / material sliding
+2025-12-27,Utara,Seam 24,Exposed,21638,Ready getting / available for coal winning
+2025-12-27,Utara,Seam 24,Flooded,5675,Perlu dewatering dan treatment area
+2025-12-27,Utara,Seam 24,Buried,5789,Perlu re-expose pasca hujan / material sliding
+2026-01-03,Utara,Seam 30,Exposed,30152,Ready getting / available for coal winning
+2026-01-03,Utara,Seam 30,Flooded,8748,Perlu dewatering dan treatment area
+2026-01-03,Utara,Seam 30,Buried,7013,Perlu re-expose pasca hujan / material sliding
+2026-01-03,Utara,Seam 24,Exposed,19082,Ready getting / available for coal winning
+2026-01-03,Utara,Seam 24,Flooded,6677,Perlu dewatering dan treatment area
+2026-01-03,Utara,Seam 24,Buried,6721,Perlu re-expose pasca hujan / material sliding
+2026-01-10,Utara,Seam 30,Exposed,30812,Ready getting / available for coal winning
+2026-01-10,Utara,Seam 30,Flooded,7388,Perlu dewatering dan treatment area
+2026-01-10,Utara,Seam 30,Buried,5782,Perlu re-expose pasca hujan / material sliding
+2026-01-10,Utara,Seam 24,Exposed,24303,Ready getting / available for coal winning
+2026-01-10,Utara,Seam 24,Flooded,3493,Perlu dewatering dan treatment area
+2026-01-10,Utara,Seam 24,Buried,2453,Perlu re-expose pasca hujan / material sliding
+2026-01-17,Utara,Seam 30,Exposed,31115,Ready getting / available for coal winning
+2026-01-17,Utara,Seam 30,Flooded,6285,Perlu dewatering dan treatment area
+2026-01-17,Utara,Seam 30,Buried,6221,Perlu re-expose pasca hujan / material sliding
+2026-01-17,Utara,Seam 24,Exposed,22627,Ready getting / available for coal winning
+2026-01-17,Utara,Seam 24,Flooded,3315,Perlu dewatering dan treatment area
+2026-01-17,Utara,Seam 24,Buried,2639,Perlu re-expose pasca hujan / material sliding
+2026-01-24,Utara,Seam 30,Exposed,26395,Ready getting / available for coal winning
+2026-01-24,Utara,Seam 30,Flooded,7246,Perlu dewatering dan treatment area
+2026-01-24,Utara,Seam 30,Buried,5244,Perlu re-expose pasca hujan / material sliding
+2026-01-24,Utara,Seam 24,Exposed,22253,Ready getting / available for coal winning
+2026-01-24,Utara,Seam 24,Flooded,6689,Perlu dewatering dan treatment area
+2026-01-24,Utara,Seam 24,Buried,5139,Perlu re-expose pasca hujan / material sliding
+2026-01-31,Utara,Seam 30,Exposed,30544,Ready getting / available for coal winning
+2026-01-31,Utara,Seam 30,Flooded,4865,Perlu dewatering dan treatment area
+2026-01-31,Utara,Seam 30,Buried,5596,Perlu re-expose pasca hujan / material sliding
+2026-01-31,Utara,Seam 24,Exposed,23933,Ready getting / available for coal winning
+2026-01-31,Utara,Seam 24,Flooded,5559,Perlu dewatering dan treatment area
+2026-01-31,Utara,Seam 24,Buried,4663,Perlu re-expose pasca hujan / material sliding
+2026-02-07,Utara,Seam 30,Exposed,29053,Ready getting / available for coal winning
+2026-02-07,Utara,Seam 30,Flooded,9009,Perlu dewatering dan treatment area
+2026-02-07,Utara,Seam 30,Buried,4177,Perlu re-expose pasca hujan / material sliding
+2026-02-07,Utara,Seam 24,Exposed,24224,Ready getting / available for coal winning
+2026-02-07,Utara,Seam 24,Flooded,3563,Perlu dewatering dan treatment area
+2026-02-07,Utara,Seam 24,Buried,2943,Perlu re-expose pasca hujan / material sliding
+2026-02-14,Utara,Seam 30,Exposed,33075,Ready getting / available for coal winning
+2026-02-14,Utara,Seam 30,Flooded,6739,Perlu dewatering dan treatment area
+2026-02-14,Utara,Seam 30,Buried,5796,Perlu re-expose pasca hujan / material sliding
+2026-02-14,Utara,Seam 24,Exposed,23455,Ready getting / available for coal winning
+2026-02-14,Utara,Seam 24,Flooded,5145,Perlu dewatering dan treatment area
+2026-02-14,Utara,Seam 24,Buried,5007,Perlu re-expose pasca hujan / material sliding
+2026-02-21,Utara,Seam 30,Exposed,30445,Ready getting / available for coal winning
+2026-02-21,Utara,Seam 30,Flooded,5219,Perlu dewatering dan treatment area
+2026-02-21,Utara,Seam 30,Buried,4317,Perlu re-expose pasca hujan / material sliding
+2026-02-21,Utara,Seam 24,Exposed,23927,Ready getting / available for coal winning
+2026-02-21,Utara,Seam 24,Flooded,5646,Perlu dewatering dan treatment area
+2026-02-21,Utara,Seam 24,Buried,2370,Perlu re-expose pasca hujan / material sliding
+2026-02-28,Utara,Seam 30,Exposed,29130,Ready getting / available for coal winning
+2026-02-28,Utara,Seam 30,Flooded,7418,Perlu dewatering dan treatment area
+2026-02-28,Utara,Seam 30,Buried,5489,Perlu re-expose pasca hujan / material sliding
+2026-02-28,Utara,Seam 24,Exposed,20599,Ready getting / available for coal winning
+2026-02-28,Utara,Seam 24,Flooded,5372,Perlu dewatering dan treatment area
+2026-02-28,Utara,Seam 24,Buried,3708,Perlu re-expose pasca hujan / material sliding
+2026-03-07,Utara,Seam 30,Exposed,31957,Ready getting / available for coal winning
+2026-03-07,Utara,Seam 30,Flooded,7809,Perlu dewatering dan treatment area
+2026-03-07,Utara,Seam 30,Buried,4909,Perlu re-expose pasca hujan / material sliding
+2026-03-07,Utara,Seam 24,Exposed,22512,Ready getting / available for coal winning
+2026-03-07,Utara,Seam 24,Flooded,5390,Perlu dewatering dan treatment area
+2026-03-07,Utara,Seam 24,Buried,3045,Perlu re-expose pasca hujan / material sliding
+2026-03-14,Utara,Seam 30,Exposed,29080,Ready getting / available for coal winning
+2026-03-14,Utara,Seam 30,Flooded,6060,Perlu dewatering dan treatment area
+2026-03-14,Utara,Seam 30,Buried,4469,Perlu re-expose pasca hujan / material sliding
+2026-03-14,Utara,Seam 24,Exposed,21355,Ready getting / available for coal winning
+2026-03-14,Utara,Seam 24,Flooded,5412,Perlu dewatering dan treatment area
+2026-03-14,Utara,Seam 24,Buried,4437,Perlu re-expose pasca hujan / material sliding
+2026-03-21,Utara,Seam 30,Exposed,28419,Ready getting / available for coal winning
+2026-03-21,Utara,Seam 30,Flooded,7025,Perlu dewatering dan treatment area
+2026-03-21,Utara,Seam 30,Buried,4842,Perlu re-expose pasca hujan / material sliding
+2026-03-21,Utara,Seam 24,Exposed,23612,Ready getting / available for coal winning
+2026-03-21,Utara,Seam 24,Flooded,5237,Perlu dewatering dan treatment area
+2026-03-21,Utara,Seam 24,Buried,2472,Perlu re-expose pasca hujan / material sliding
+2026-03-28,Utara,Seam 30,Exposed,28906,Ready getting / available for coal winning
+2026-03-28,Utara,Seam 30,Flooded,7029,Perlu dewatering dan treatment area
+2026-03-28,Utara,Seam 30,Buried,5966,Perlu re-expose pasca hujan / material sliding
+2026-03-28,Utara,Seam 24,Exposed,19779,Ready getting / available for coal winning
+2026-03-28,Utara,Seam 24,Flooded,5596,Perlu dewatering dan treatment area
+2026-03-28,Utara,Seam 24,Buried,4851,Perlu re-expose pasca hujan / material sliding
+2026-04-04,Utara,Seam 30,Exposed,30570,Ready getting / available for coal winning
+2026-04-04,Utara,Seam 30,Flooded,7550,Perlu dewatering dan treatment area
+2026-04-04,Utara,Seam 30,Buried,4407,Perlu re-expose pasca hujan / material sliding
+2026-04-04,Utara,Seam 24,Exposed,22921,Ready getting / available for coal winning
+2026-04-04,Utara,Seam 24,Flooded,3629,Perlu dewatering dan treatment area
+2026-04-04,Utara,Seam 24,Buried,1670,Perlu re-expose pasca hujan / material sliding

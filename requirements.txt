@@ -1,0 +1,6 @@
+streamlit
+pandas>=2.0
+plotly
+matplotlib
+openpyxl
+xlsxwriter

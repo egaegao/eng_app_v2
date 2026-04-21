@@ -1,0 +1,209 @@
+week_date,block,category,open,closed,progress,total_findings
+2025-10-11,Zebra,Buku Tambang,1,4,1,6
+2025-10-11,Zebra,Lapangan,3,9,3,15
+2025-10-11,Zebra,Administrasi,0,3,1,4
+2025-10-11,Zebra,Safety,1,5,2,8
+2025-10-18,Zebra,Buku Tambang,1,3,1,5
+2025-10-18,Zebra,Lapangan,1,6,5,12
+2025-10-18,Zebra,Administrasi,1,2,1,4
+2025-10-18,Zebra,Safety,1,5,2,8
+2025-10-25,Zebra,Buku Tambang,1,3,2,6
+2025-10-25,Zebra,Lapangan,3,10,5,18
+2025-10-25,Zebra,Administrasi,0,3,2,5
+2025-10-25,Zebra,Safety,2,5,3,10
+2025-11-01,Zebra,Buku Tambang,1,2,1,4
+2025-11-01,Zebra,Lapangan,3,8,5,16
+2025-11-01,Zebra,Administrasi,1,2,1,4
+2025-11-01,Zebra,Safety,2,5,2,9
+2025-11-08,Zebra,Buku Tambang,1,4,1,6
+2025-11-08,Zebra,Lapangan,4,10,4,18
+2025-11-08,Zebra,Administrasi,1,2,1,4
+2025-11-08,Zebra,Safety,2,4,3,9
+2025-11-15,Zebra,Buku Tambang,0,4,2,6
+2025-11-15,Zebra,Lapangan,0,12,5,17
+2025-11-15,Zebra,Administrasi,1,2,1,4
+2025-11-15,Zebra,Safety,2,4,1,7
+2025-11-22,Zebra,Buku Tambang,2,3,1,6
+2025-11-22,Zebra,Lapangan,3,6,3,12
+2025-11-22,Zebra,Administrasi,0,2,1,3
+2025-11-22,Zebra,Safety,2,4,2,8
+2025-11-29,Zebra,Buku Tambang,2,2,1,5
+2025-11-29,Zebra,Lapangan,0,8,5,13
+2025-11-29,Zebra,Administrasi,0,3,2,5
+2025-11-29,Zebra,Safety,0,5,3,8
+2025-12-06,Zebra,Buku Tambang,0,4,2,6
+2025-12-06,Zebra,Lapangan,2,11,4,17
+2025-12-06,Zebra,Administrasi,1,2,2,5
+2025-12-06,Zebra,Safety,2,4,3,9
+2025-12-13,Zebra,Buku Tambang,0,3,1,4
+2025-12-13,Zebra,Lapangan,1,11,4,16
+2025-12-13,Zebra,Administrasi,1,2,1,4
+2025-12-13,Zebra,Safety,2,4,2,8
+2025-12-20,Zebra,Buku Tambang,1,3,1,5
+2025-12-20,Zebra,Lapangan,3,10,5,18
+2025-12-20,Zebra,Administrasi,1,2,1,4
+2025-12-20,Zebra,Safety,2,4,2,8
+2025-12-27,Zebra,Buku Tambang,0,3,2,5
+2025-12-27,Zebra,Lapangan,0,9,5,13
+2025-12-27,Zebra,Administrasi,1,3,1,5
+2025-12-27,Zebra,Safety,2,4,3,9
+2026-01-03,Zebra,Buku Tambang,0,3,2,5
+2026-01-03,Zebra,Lapangan,1,7,4,12
+2026-01-03,Zebra,Administrasi,0,2,1,3
+2026-01-03,Zebra,Safety,1,4,2,7
+2026-01-10,Zebra,Buku Tambang,1,3,2,6
+2026-01-10,Zebra,Lapangan,4,9,5,18
+2026-01-10,Zebra,Administrasi,0,3,1,4
+2026-01-10,Zebra,Safety,1,3,3,7
+2026-01-17,Zebra,Buku Tambang,1,3,1,5
+2026-01-17,Zebra,Lapangan,6,8,4,18
+2026-01-17,Zebra,Administrasi,1,3,1,5
+2026-01-17,Zebra,Safety,1,5,2,8
+2026-01-24,Zebra,Buku Tambang,0,3,1,4
+2026-01-24,Zebra,Lapangan,5,8,4,17
+2026-01-24,Zebra,Administrasi,0,3,2,5
+2026-01-24,Zebra,Safety,0,5,2,7
+2026-01-31,Zebra,Buku Tambang,1,3,2,6
+2026-01-31,Zebra,Lapangan,2,8,4,14
+2026-01-31,Zebra,Administrasi,0,2,1,3
+2026-01-31,Zebra,Safety,2,4,2,8
+2026-02-07,Zebra,Buku Tambang,1,3,2,6
+2026-02-07,Zebra,Lapangan,1,10,4,15
+2026-02-07,Zebra,Administrasi,0,3,1,4
+2026-02-07,Zebra,Safety,2,6,2,10
+2026-02-14,Zebra,Buku Tambang,0,3,2,5
+2026-02-14,Zebra,Lapangan,3,7,5,15
+2026-02-14,Zebra,Administrasi,0,2,1,3
+2026-02-14,Zebra,Safety,0,6,3,9
+2026-02-21,Zebra,Buku Tambang,0,4,2,6
+2026-02-21,Zebra,Lapangan,4,8,6,18
+2026-02-21,Zebra,Administrasi,0,3,1,4
+2026-02-21,Zebra,Safety,2,4,2,8
+2026-02-28,Zebra,Buku Tambang,2,3,1,6
+2026-02-28,Zebra,Lapangan,2,12,4,18
+2026-02-28,Zebra,Administrasi,0,3,1,4
+2026-02-28,Zebra,Safety,2,5,2,9
+2026-03-07,Zebra,Buku Tambang,0,3,1,4
+2026-03-07,Zebra,Lapangan,0,8,5,12
+2026-03-07,Zebra,Administrasi,1,3,1,5
+2026-03-07,Zebra,Safety,2,4,2,8
+2026-03-14,Zebra,Buku Tambang,0,3,2,5
+2026-03-14,Zebra,Lapangan,5,9,5,19
+2026-03-14,Zebra,Administrasi,1,2,1,4
+2026-03-14,Zebra,Safety,1,4,2,7
+2026-03-21,Zebra,Buku Tambang,2,3,1,6
+2026-03-21,Zebra,Lapangan,3,7,4,14
+2026-03-21,Zebra,Administrasi,1,3,1,5
+2026-03-21,Zebra,Safety,1,5,3,9
+2026-03-28,Zebra,Buku Tambang,1,3,1,5
+2026-03-28,Zebra,Lapangan,0,9,6,15
+2026-03-28,Zebra,Administrasi,1,2,1,4
+2026-03-28,Zebra,Safety,2,3,2,7
+2026-04-04,Zebra,Buku Tambang,1,3,1,5
+2026-04-04,Zebra,Lapangan,2,12,4,18
+2026-04-04,Zebra,Administrasi,1,1,1,3
+2026-04-04,Zebra,Safety,1,4,2,7
+2025-10-11,Utara,Buku Tambang,1,3,2,6
+2025-10-11,Utara,Lapangan,3,9,7,19
+2025-10-11,Utara,Administrasi,0,2,1,3
+2025-10-11,Utara,Safety,1,6,2,9
+2025-10-18,Utara,Buku Tambang,0,3,2,5
+2025-10-18,Utara,Lapangan,3,8,4,15
+2025-10-18,Utara,Administrasi,1,2,1,4
+2025-10-18,Utara,Safety,2,6,2,10
+2025-10-25,Utara,Buku Tambang,1,4,1,6
+2025-10-25,Utara,Lapangan,4,6,3,13
+2025-10-25,Utara,Administrasi,1,3,1,5
+2025-10-25,Utara,Safety,2,4,3,9
+2025-11-01,Utara,Buku Tambang,2,3,1,6
+2025-11-01,Utara,Lapangan,1,11,4,16
+2025-11-01,Utara,Administrasi,1,2,1,4
+2025-11-01,Utara,Safety,0,6,3,9
+2025-11-08,Utara,Buku Tambang,1,4,1,6
+2025-11-08,Utara,Lapangan,4,8,4,16
+2025-11-08,Utara,Administrasi,0,3,2,5
+2025-11-08,Utara,Safety,1,5,2,8
+2025-11-15,Utara,Buku Tambang,1,2,1,4
+2025-11-15,Utara,Lapangan,1,8,3,12
+2025-11-15,Utara,Administrasi,0,3,1,4
+2025-11-15,Utara,Safety,2,6,2,10
+2025-11-22,Utara,Buku Tambang,0,4,2,6
+2025-11-22,Utara,Lapangan,1,11,5,17
+2025-11-22,Utara,Administrasi,0,2,2,4
+2025-11-22,Utara,Safety,0,6,3,9
+2025-11-29,Utara,Buku Tambang,1,4,1,6
+2025-11-29,Utara,Lapangan,1,8,4,13
+2025-11-29,Utara,Administrasi,1,2,1,4
+2025-11-29,Utara,Safety,1,5,3,9
+2025-12-06,Utara,Buku Tambang,0,4,2,6
+2025-12-06,Utara,Lapangan,2,9,5,16
+2025-12-06,Utara,Administrasi,0,2,1,3
+2025-12-06,Utara,Safety,2,6,2,10
+2025-12-13,Utara,Buku Tambang,0,3,2,5
+2025-12-13,Utara,Lapangan,2,10,5,17
+2025-12-13,Utara,Administrasi,1,2,1,4
+2025-12-13,Utara,Safety,2,5,2,9
+2025-12-20,Utara,Buku Tambang,1,2,1,4
+2025-12-20,Utara,Lapangan,0,10,4,14
+2025-12-20,Utara,Administrasi,1,2,1,4
+2025-12-20,Utara,Safety,1,5,4,10
+2025-12-27,Utara,Buku Tambang,1,3,2,6
+2025-12-27,Utara,Lapangan,4,10,4,18
+2025-12-27,Utara,Administrasi,0,3,2,5
+2025-12-27,Utara,Safety,1,5,3,9
+2026-01-03,Utara,Buku Tambang,1,2,2,5
+2026-01-03,Utara,Lapangan,1,12,5,18
+2026-01-03,Utara,Administrasi,0,2,1,3
+2026-01-03,Utara,Safety,1,5,3,9
+2026-01-10,Utara,Buku Tambang,2,2,1,5
+2026-01-10,Utara,Lapangan,1,9,3,13
+2026-01-10,Utara,Administrasi,1,2,1,4
+2026-01-10,Utara,Safety,1,4,2,7
+2026-01-17,Utara,Buku Tambang,1,4,1,6
+2026-01-17,Utara,Lapangan,0,12,7,18
+2026-01-17,Utara,Administrasi,1,2,1,4
+2026-01-17,Utara,Safety,1,4,4,9
+2026-01-24,Utara,Buku Tambang,1,3,1,5
+2026-01-24,Utara,Lapangan,1,7,4,12
+2026-01-24,Utara,Administrasi,1,2,1,4
+2026-01-24,Utara,Safety,0,5,4,9
+2026-01-31,Utara,Buku Tambang,1,2,1,4
+2026-01-31,Utara,Lapangan,1,9,5,15
+2026-01-31,Utara,Administrasi,0,3,2,5
+2026-01-31,Utara,Safety,1,4,2,7
+2026-02-07,Utara,Buku Tambang,1,2,1,4
+2026-02-07,Utara,Lapangan,2,10,5,17
+2026-02-07,Utara,Administrasi,1,2,1,4
+2026-02-07,Utara,Safety,1,6,2,9
+2026-02-14,Utara,Buku Tambang,0,3,2,5
+2026-02-14,Utara,Lapangan,1,9,5,15
+2026-02-14,Utara,Administrasi,1,2,2,5
+2026-02-14,Utara,Safety,0,5,2,7
+2026-02-21,Utara,Buku Tambang,1,2,1,4
+2026-02-21,Utara,Lapangan,3,7,4,14
+2026-02-21,Utara,Administrasi,0,3,2,4
+2026-02-21,Utara,Safety,3,4,2,9
+2026-02-28,Utara,Buku Tambang,1,3,2,6
+2026-02-28,Utara,Lapangan,1,12,5,18
+2026-02-28,Utara,Administrasi,0,3,2,5
+2026-02-28,Utara,Safety,2,3,2,7
+2026-03-07,Utara,Buku Tambang,1,3,1,5
+2026-03-07,Utara,Lapangan,1,12,5,18
+2026-03-07,Utara,Administrasi,1,3,1,5
+2026-03-07,Utara,Safety,0,5,3,7
+2026-03-14,Utara,Buku Tambang,0,4,2,6
+2026-03-14,Utara,Lapangan,0,9,4,13
+2026-03-14,Utara,Administrasi,1,2,1,4
+2026-03-14,Utara,Safety,2,4,2,8
+2026-03-21,Utara,Buku Tambang,0,3,2,5
+2026-03-21,Utara,Lapangan,3,8,4,15
+2026-03-21,Utara,Administrasi,0,3,1,4
+2026-03-21,Utara,Safety,0,6,3,9
+2026-03-28,Utara,Buku Tambang,1,3,2,6
+2026-03-28,Utara,Lapangan,0,11,6,17
+2026-03-28,Utara,Administrasi,1,3,1,5
+2026-03-28,Utara,Safety,1,6,3,10
+2026-04-04,Utara,Buku Tambang,1,3,2,6
+2026-04-04,Utara,Lapangan,2,6,4,12
+2026-04-04,Utara,Administrasi,1,2,1,4
+2026-04-04,Utara,Safety,0,5,3,8

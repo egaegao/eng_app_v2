@@ -1,0 +1,119 @@
+week_date,block,issue_category,issue_detail,impact_area,severity,status,pic
+2025-10-11,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Progress,Mine Ops
+2025-10-11,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Open,Engineering
+2025-10-18,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Open,Mine Ops
+2025-10-18,Zebra,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Medium,Open,Mine Ops
+2025-10-25,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Open,Dispatcher
+2025-10-25,Zebra,Safety,Housekeeping front kerja belum konsisten,Compliance,Medium,Progress,HSE
+2025-11-01,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Open,Dispatcher
+2025-11-01,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Closed,Engineering
+2025-11-08,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Progress,Engineering
+2025-11-08,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Progress,Dispatcher
+2025-11-15,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Progress,Dispatcher
+2025-11-15,Zebra,Safety,Housekeeping front kerja belum konsisten,Compliance,Medium,Closed,HSE
+2025-11-15,Zebra,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Low,Closed,Mine Ops
+2025-11-22,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Progress,Mine Ops
+2025-11-22,Zebra,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Medium,Progress,Mine Ops
+2025-11-22,Zebra,Fleet,PA support unit di bawah rencana,Productivity,High,Progress,Maintenance
+2025-11-29,Zebra,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Open,HSE
+2025-11-29,Zebra,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Medium,Closed,Mine Ops
+2025-11-29,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Low,Closed,Engineering
+2025-12-06,Zebra,Fleet,PA support unit di bawah rencana,Productivity,High,Progress,Maintenance
+2025-12-06,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Progress,Mine Ops
+2025-12-06,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Low,Closed,Engineering
+2025-12-13,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Progress,Engineering
+2025-12-13,Zebra,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Medium,Closed,Mine Ops
+2025-12-13,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Open,Mine Ops
+2025-12-20,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Closed,Engineering
+2025-12-20,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Open,Mine Ops
+2025-12-20,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Low,Progress,Dispatcher
+2025-12-27,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Progress,Mine Ops
+2025-12-27,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Closed,Dispatcher
+2025-12-27,Zebra,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Low,Closed,Mine Ops
+2026-01-03,Zebra,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,High,Open,Mine Ops
+2026-01-03,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Open,Mine Ops
+2026-01-03,Zebra,Safety,Housekeeping front kerja belum konsisten,Compliance,Low,Progress,HSE
+2026-01-10,Zebra,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Progress,HSE
+2026-01-10,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Progress,Dispatcher
+2026-01-10,Zebra,Fleet,PA support unit di bawah rencana,Productivity,High,Open,Maintenance
+2026-01-17,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Open,Dispatcher
+2026-01-17,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Closed,Engineering
+2026-01-17,Zebra,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Low,Progress,Mine Ops
+2026-01-24,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Progress,Dispatcher
+2026-01-24,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Progress,Engineering
+2026-01-24,Zebra,Safety,Housekeeping front kerja belum konsisten,Compliance,Low,Progress,HSE
+2026-01-31,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Open,Engineering
+2026-01-31,Zebra,Safety,Housekeeping front kerja belum konsisten,Compliance,Medium,Progress,HSE
+2026-02-07,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Closed,Mine Ops
+2026-02-07,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Closed,Engineering
+2026-02-14,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Open,Dispatcher
+2026-02-14,Zebra,Fleet,PA support unit di bawah rencana,Productivity,Medium,Progress,Maintenance
+2026-02-21,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Progress,Engineering
+2026-02-21,Zebra,Fleet,PA support unit di bawah rencana,Productivity,Medium,Progress,Maintenance
+2026-02-28,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Progress,Engineering
+2026-02-28,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,Medium,Open,Mine Ops
+2026-03-07,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Open,Mine Ops
+2026-03-07,Zebra,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Medium,Open,Mine Ops
+2026-03-14,Zebra,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Progress,Mine Ops
+2026-03-14,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Progress,Engineering
+2026-03-21,Zebra,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Closed,HSE
+2026-03-21,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Closed,Engineering
+2026-03-28,Zebra,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Closed,Engineering
+2026-03-28,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Open,Dispatcher
+2026-04-04,Zebra,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Closed,Dispatcher
+2026-04-04,Zebra,Fleet,PA support unit di bawah rencana,Productivity,Medium,Progress,Maintenance
+2025-10-11,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Progress,HSE
+2025-10-11,Utara,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Medium,Progress,Mine Ops
+2025-10-18,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Open,HSE
+2025-10-18,Utara,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Open,Engineering
+2025-10-25,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Progress,HSE
+2025-10-25,Utara,Fleet,PA support unit di bawah rencana,Productivity,Medium,Closed,Maintenance
+2025-11-01,Utara,Fleet,PA support unit di bawah rencana,Productivity,High,Progress,Maintenance
+2025-11-01,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Progress,Dispatcher
+2025-11-08,Utara,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,High,Closed,Mine Ops
+2025-11-08,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,Medium,Closed,HSE
+2025-11-15,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Open,Dispatcher
+2025-11-15,Utara,Fleet,PA support unit di bawah rencana,Productivity,Medium,Progress,Maintenance
+2025-11-22,Utara,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Closed,Mine Ops
+2025-11-22,Utara,Fleet,PA support unit di bawah rencana,Productivity,Medium,Progress,Maintenance
+2025-11-29,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Open,HSE
+2025-11-29,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Closed,Dispatcher
+2025-12-06,Utara,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Open,Mine Ops
+2025-12-06,Utara,Fleet,PA support unit di bawah rencana,Productivity,High,Progress,Maintenance
+2025-12-06,Utara,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Low,Progress,Engineering
+2025-12-13,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Open,Dispatcher
+2025-12-13,Utara,Fleet,PA support unit di bawah rencana,Productivity,High,Open,Maintenance
+2025-12-13,Utara,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Open,Mine Ops
+2025-12-20,Utara,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Open,Engineering
+2025-12-20,Utara,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Medium,Progress,Mine Ops
+2025-12-20,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Low,Open,Dispatcher
+2025-12-27,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Closed,HSE
+2025-12-27,Utara,Fleet,PA support unit di bawah rencana,Productivity,Medium,Open,Maintenance
+2026-01-03,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Open,Dispatcher
+2026-01-03,Utara,Weather,Jam hujan aktual melebihi plan mingguan,Production,Medium,Progress,Mine Ops
+2026-01-10,Utara,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Closed,Engineering
+2026-01-10,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Progress,Dispatcher
+2026-01-17,Utara,Fleet,PA support unit di bawah rencana,Productivity,High,Progress,Maintenance
+2026-01-17,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,Medium,Progress,HSE
+2026-01-24,Utara,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,High,Open,Engineering
+2026-01-24,Utara,Fleet,PA support unit di bawah rencana,Productivity,Medium,Closed,Maintenance
+2026-01-31,Utara,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Progress,Mine Ops
+2026-01-31,Utara,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Open,Engineering
+2026-02-07,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,High,Open,Dispatcher
+2026-02-07,Utara,Pumping,Kapasitas dewatering belum cukup di pit aktif,Pit Access,Medium,Closed,Engineering
+2026-02-14,Utara,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Open,Mine Ops
+2026-02-14,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,Medium,Open,HSE
+2026-02-21,Utara,Weather,Jam hujan aktual melebihi plan mingguan,Production,High,Open,Mine Ops
+2026-02-21,Utara,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Medium,Progress,Mine Ops
+2026-02-28,Utara,Fleet,PA support unit di bawah rencana,Productivity,High,Open,Maintenance
+2026-02-28,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Closed,Dispatcher
+2026-03-07,Utara,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,High,Open,Mine Ops
+2026-03-07,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Closed,Dispatcher
+2026-03-14,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Closed,HSE
+2026-03-14,Utara,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,Medium,Progress,Mine Ops
+2026-03-21,Utara,Fleet,PA support unit di bawah rencana,Productivity,High,Closed,Maintenance
+2026-03-21,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,Medium,Progress,HSE
+2026-03-28,Utara,Coal Exposure,Expose coal tertunda akibat OB recovery lambat,Coal Getting,High,Progress,Mine Ops
+2026-03-28,Utara,Road,Kondisi jalan hauling berlumpur dan bergelombang,Hauling,Medium,Progress,Dispatcher
+2026-04-04,Utara,Safety,Housekeeping front kerja belum konsisten,Compliance,High,Progress,HSE
+2026-04-04,Utara,Fleet,PA support unit di bawah rencana,Productivity,Medium,Progress,Maintenance

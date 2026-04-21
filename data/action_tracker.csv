@@ -1,0 +1,157 @@
+action_id,week_date,block,action_detail,pic,due_date,status,priority
+A0001,2025-10-11,Zebra,Tutup temuan housekeeping area aktif,HSE,2025-10-19,Open,High
+A0002,2025-10-11,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-10-22,Progress,Medium
+A0003,2025-10-11,Zebra,Regrade jalan hauling prioritas,Dispatcher,2025-10-23,Open,Low
+A0004,2025-10-18,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2025-10-24,Progress,High
+A0005,2025-10-18,Zebra,Review pumping capacity dan standby pump,Engineering,2025-10-30,Closed,High
+A0006,2025-10-18,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-10-28,Open,Low
+A0007,2025-10-25,Zebra,Tutup temuan housekeeping area aktif,HSE,2025-11-07,Closed,Medium
+A0008,2025-10-25,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2025-10-31,Open,High
+A0009,2025-10-25,Zebra,Review pumping capacity dan standby pump,Engineering,2025-11-05,Progress,High
+A0010,2025-11-01,Zebra,Regrade jalan hauling prioritas,Dispatcher,2025-11-06,Progress,High
+A0011,2025-11-01,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2025-11-14,Open,Medium
+A0012,2025-11-01,Zebra,Tutup temuan housekeeping area aktif,HSE,2025-11-14,Progress,High
+A0013,2025-11-08,Zebra,Regrade jalan hauling prioritas,Dispatcher,2025-11-18,Closed,Low
+A0014,2025-11-08,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2025-11-14,Progress,High
+A0015,2025-11-08,Zebra,Tutup temuan housekeeping area aktif,HSE,2025-11-17,Closed,Medium
+A0016,2025-11-15,Zebra,Tutup temuan housekeeping area aktif,HSE,2025-11-28,Progress,Medium
+A0017,2025-11-15,Zebra,Review pumping capacity dan standby pump,Engineering,2025-11-24,Closed,High
+A0018,2025-11-15,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2025-11-21,Open,Low
+A0019,2025-11-22,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2025-12-01,Progress,Low
+A0020,2025-11-22,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2025-12-03,Progress,Medium
+A0021,2025-11-22,Zebra,Regrade jalan hauling prioritas,Dispatcher,2025-11-30,Progress,Medium
+A0022,2025-11-29,Zebra,Tutup temuan housekeeping area aktif,HSE,2025-12-13,Closed,Medium
+A0023,2025-11-29,Zebra,Review pumping capacity dan standby pump,Engineering,2025-12-09,Open,Medium
+A0024,2025-11-29,Zebra,Regrade jalan hauling prioritas,Dispatcher,2025-12-04,Open,Low
+A0025,2025-12-06,Zebra,Regrade jalan hauling prioritas,Dispatcher,2025-12-19,Progress,High
+A0026,2025-12-06,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2025-12-14,Progress,Medium
+A0027,2025-12-06,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2025-12-17,Progress,Low
+A0028,2025-12-13,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2025-12-21,Progress,High
+A0029,2025-12-13,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-12-21,Progress,High
+A0030,2025-12-13,Zebra,Review pumping capacity dan standby pump,Engineering,2025-12-19,Closed,High
+A0031,2025-12-20,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-01-02,Open,High
+A0032,2025-12-20,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2026-01-03,Progress,Medium
+A0033,2025-12-20,Zebra,Review pumping capacity dan standby pump,Engineering,2025-12-26,Open,High
+A0034,2025-12-27,Zebra,Review pumping capacity dan standby pump,Engineering,2026-01-07,Progress,High
+A0035,2025-12-27,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-01-03,Open,Medium
+A0036,2025-12-27,Zebra,Tutup temuan housekeeping area aktif,HSE,2026-01-03,Closed,Low
+A0037,2026-01-03,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2026-01-17,Open,High
+A0038,2026-01-03,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-01-17,Progress,High
+A0039,2026-01-03,Zebra,Regrade jalan hauling prioritas,Dispatcher,2026-01-11,Closed,Medium
+A0040,2026-01-10,Zebra,Review pumping capacity dan standby pump,Engineering,2026-01-17,Open,Low
+A0041,2026-01-10,Zebra,Regrade jalan hauling prioritas,Dispatcher,2026-01-18,Progress,High
+A0042,2026-01-10,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2026-01-20,Progress,Medium
+A0043,2026-01-17,Zebra,Regrade jalan hauling prioritas,Dispatcher,2026-01-24,Closed,High
+A0044,2026-01-17,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-01-24,Open,High
+A0045,2026-01-17,Zebra,Tutup temuan housekeeping area aktif,HSE,2026-01-30,Closed,High
+A0046,2026-01-24,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-01-31,Progress,Low
+A0047,2026-01-24,Zebra,Review pumping capacity dan standby pump,Engineering,2026-02-03,Open,Medium
+A0048,2026-01-24,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2026-02-06,Open,High
+A0049,2026-01-31,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-02-13,Closed,Medium
+A0050,2026-01-31,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2026-02-07,Progress,Medium
+A0051,2026-01-31,Zebra,Tutup temuan housekeeping area aktif,HSE,2026-02-09,Progress,High
+A0052,2026-02-07,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-02-16,Closed,High
+A0053,2026-02-07,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2026-02-15,Open,High
+A0054,2026-02-07,Zebra,Tutup temuan housekeeping area aktif,HSE,2026-02-17,Open,High
+A0055,2026-02-14,Zebra,Tutup temuan housekeeping area aktif,HSE,2026-02-25,Progress,Medium
+A0056,2026-02-14,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2026-02-24,Open,Low
+A0057,2026-02-14,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-02-24,Closed,Medium
+A0058,2026-02-21,Zebra,Tutup temuan housekeeping area aktif,HSE,2026-03-07,Open,High
+A0059,2026-02-21,Zebra,Review pumping capacity dan standby pump,Engineering,2026-03-07,Closed,Medium
+A0060,2026-02-21,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2026-03-01,Closed,Medium
+A0061,2026-02-28,Zebra,Regrade jalan hauling prioritas,Dispatcher,2026-03-09,Progress,High
+A0062,2026-02-28,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2026-03-10,Open,High
+A0063,2026-02-28,Zebra,Tutup temuan housekeeping area aktif,HSE,2026-03-14,Progress,High
+A0064,2026-03-07,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2026-03-15,Closed,High
+A0065,2026-03-07,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2026-03-16,Progress,Medium
+A0066,2026-03-07,Zebra,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-03-19,Progress,Medium
+A0067,2026-03-14,Zebra,Review pumping capacity dan standby pump,Engineering,2026-03-20,Progress,Medium
+A0068,2026-03-14,Zebra,Regrade jalan hauling prioritas,Dispatcher,2026-03-24,Progress,Low
+A0069,2026-03-14,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2026-03-19,Progress,Low
+A0070,2026-03-21,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2026-03-29,Closed,High
+A0071,2026-03-21,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2026-04-02,Progress,Medium
+A0072,2026-03-21,Zebra,Review pumping capacity dan standby pump,Engineering,2026-04-02,Progress,Medium
+A0073,2026-03-28,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2026-04-08,Open,Medium
+A0074,2026-03-28,Zebra,Review pumping capacity dan standby pump,Engineering,2026-04-06,Open,High
+A0075,2026-03-28,Zebra,Follow up expose area coal minggu berikutnya,Mine Ops,2026-04-06,Progress,Medium
+A0076,2026-04-04,Zebra,Percepat perbaikan unit support kritikal,Maintenance,2026-04-12,Open,Medium
+A0077,2026-04-04,Zebra,Regrade jalan hauling prioritas,Dispatcher,2026-04-18,Open,Medium
+A0078,2026-04-04,Zebra,Review pumping capacity dan standby pump,Engineering,2026-04-17,Open,High
+A0079,2025-10-11,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-10-22,Closed,High
+A0080,2025-10-11,Utara,Percepat perbaikan unit support kritikal,Maintenance,2025-10-25,Progress,Low
+A0081,2025-10-11,Utara,Regrade jalan hauling prioritas,Dispatcher,2025-10-21,Progress,High
+A0082,2025-10-18,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-11-01,Progress,Medium
+A0083,2025-10-18,Utara,Regrade jalan hauling prioritas,Dispatcher,2025-10-28,Progress,Low
+A0084,2025-10-18,Utara,Percepat perbaikan unit support kritikal,Maintenance,2025-10-23,Progress,Medium
+A0085,2025-10-25,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2025-11-02,Progress,Medium
+A0086,2025-10-25,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-11-03,Open,High
+A0087,2025-10-25,Utara,Tutup temuan housekeeping area aktif,HSE,2025-11-05,Closed,Low
+A0088,2025-11-01,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2025-11-13,Closed,Medium
+A0089,2025-11-01,Utara,Percepat perbaikan unit support kritikal,Maintenance,2025-11-07,Progress,High
+A0090,2025-11-01,Utara,Tutup temuan housekeeping area aktif,HSE,2025-11-10,Progress,High
+A0091,2025-11-08,Utara,Review pumping capacity dan standby pump,Engineering,2025-11-17,Open,Medium
+A0092,2025-11-08,Utara,Percepat perbaikan unit support kritikal,Maintenance,2025-11-15,Open,High
+A0093,2025-11-08,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2025-11-21,Open,Medium
+A0094,2025-11-15,Utara,Percepat perbaikan unit support kritikal,Maintenance,2025-11-27,Open,High
+A0095,2025-11-15,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2025-11-24,Open,High
+A0096,2025-11-15,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-11-29,Progress,Medium
+A0097,2025-11-22,Utara,Regrade jalan hauling prioritas,Dispatcher,2025-11-27,Open,Medium
+A0098,2025-11-22,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2025-11-29,Closed,Medium
+A0099,2025-11-22,Utara,Percepat perbaikan unit support kritikal,Maintenance,2025-11-29,Open,Medium
+A0100,2025-11-29,Utara,Review pumping capacity dan standby pump,Engineering,2025-12-09,Progress,Medium
+A0101,2025-11-29,Utara,Tutup temuan housekeeping area aktif,HSE,2025-12-11,Closed,Low
+A0102,2025-11-29,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-12-10,Progress,High
+A0103,2025-12-06,Utara,Regrade jalan hauling prioritas,Dispatcher,2025-12-14,Progress,Medium
+A0104,2025-12-06,Utara,Review pumping capacity dan standby pump,Engineering,2025-12-13,Progress,High
+A0105,2025-12-06,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-12-11,Closed,Medium
+A0106,2025-12-13,Utara,Tutup temuan housekeeping area aktif,HSE,2025-12-21,Progress,Medium
+A0107,2025-12-13,Utara,Regrade jalan hauling prioritas,Dispatcher,2025-12-19,Closed,High
+A0108,2025-12-13,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2025-12-22,Closed,High
+A0109,2025-12-20,Utara,Tutup temuan housekeeping area aktif,HSE,2025-12-25,Open,High
+A0110,2025-12-20,Utara,Percepat perbaikan unit support kritikal,Maintenance,2025-12-25,Closed,High
+A0111,2025-12-20,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2025-12-29,Progress,Medium
+A0112,2025-12-27,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-01-09,Closed,Medium
+A0113,2025-12-27,Utara,Tutup temuan housekeeping area aktif,HSE,2026-01-05,Open,High
+A0114,2025-12-27,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-01-09,Progress,High
+A0115,2026-01-03,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-01-15,Progress,High
+A0116,2026-01-03,Utara,Tutup temuan housekeeping area aktif,HSE,2026-01-12,Open,Medium
+A0117,2026-01-03,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-01-10,Open,High
+A0118,2026-01-10,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-01-23,Progress,Low
+A0119,2026-01-10,Utara,Tutup temuan housekeeping area aktif,HSE,2026-01-23,Progress,Medium
+A0120,2026-01-10,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-01-16,Progress,Low
+A0121,2026-01-17,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2026-01-23,Open,Medium
+A0122,2026-01-17,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-01-31,Progress,Medium
+A0123,2026-01-17,Utara,Tutup temuan housekeeping area aktif,HSE,2026-01-24,Progress,Medium
+A0124,2026-01-24,Utara,Review pumping capacity dan standby pump,Engineering,2026-01-29,Progress,Medium
+A0125,2026-01-24,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-02-04,Progress,Medium
+A0126,2026-01-24,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-01-31,Closed,Medium
+A0127,2026-01-31,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-02-10,Open,Medium
+A0128,2026-01-31,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2026-02-11,Open,High
+A0129,2026-01-31,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-02-11,Open,Low
+A0130,2026-02-07,Utara,Tutup temuan housekeeping area aktif,HSE,2026-02-20,Progress,Medium
+A0131,2026-02-07,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2026-02-20,Open,High
+A0132,2026-02-07,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-02-21,Progress,High
+A0133,2026-02-14,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-02-19,Open,Medium
+A0134,2026-02-14,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-02-24,Open,Low
+A0135,2026-02-14,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-02-20,Open,High
+A0136,2026-02-21,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-02-28,Progress,High
+A0137,2026-02-21,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-03-06,Closed,High
+A0138,2026-02-21,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2026-03-06,Open,High
+A0139,2026-02-28,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-03-13,Closed,Medium
+A0140,2026-02-28,Utara,Review pumping capacity dan standby pump,Engineering,2026-03-11,Closed,High
+A0141,2026-02-28,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-03-10,Progress,High
+A0142,2026-03-07,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-03-20,Open,Low
+A0143,2026-03-07,Utara,Optimalkan produktivitas kerja pasca hujan,Mine Ops,2026-03-15,Progress,Low
+A0144,2026-03-07,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2026-03-16,Progress,High
+A0145,2026-03-14,Utara,Tutup temuan housekeeping area aktif,HSE,2026-03-22,Open,High
+A0146,2026-03-14,Utara,Review pumping capacity dan standby pump,Engineering,2026-03-26,Progress,High
+A0147,2026-03-14,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-03-27,Progress,Medium
+A0148,2026-03-21,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-04-04,Progress,High
+A0149,2026-03-21,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2026-03-28,Progress,Medium
+A0150,2026-03-21,Utara,Review pumping capacity dan standby pump,Engineering,2026-03-30,Progress,Medium
+A0151,2026-03-28,Utara,Tutup temuan housekeeping area aktif,HSE,2026-04-05,Open,High
+A0152,2026-03-28,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-04-07,Progress,High
+A0153,2026-03-28,Utara,Follow up expose area coal minggu berikutnya,Mine Ops,2026-04-09,Progress,Medium
+A0154,2026-04-04,Utara,Review pumping capacity dan standby pump,Engineering,2026-04-18,Progress,Medium
+A0155,2026-04-04,Utara,Percepat perbaikan unit support kritikal,Maintenance,2026-04-18,Closed,High
+A0156,2026-04-04,Utara,Regrade jalan hauling prioritas,Dispatcher,2026-04-09,Closed,Medium
